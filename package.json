@@ -7,7 +7,7 @@
     "test": "serverless-bundle test"
   },
   "devDependencies": {
-    "aws-sdk": "^2.505.0",
+    "aws-sdk": "^2.814.0",
     "serverless-bundle": "^1.2.2",
     "serverless-offline": "^5.3.3"
   },
